@@ -504,7 +504,6 @@ MonoBehaviour:
   BestScoreText: {fileID: 2078529056}
   ScoreText: {fileID: 188020406}
   GameOverText: {fileID: 474497238}
-  BestScore: 0
 --- !u!1 &455529321
 GameObject:
   m_ObjectHideFlags: 0
@@ -891,7 +890,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1066359099}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: bc24b7fc41d5dfb4698e2ca16a37dfad, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
